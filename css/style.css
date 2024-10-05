@@ -1035,6 +1035,9 @@ a.theme-header-logo {
 a.theme-header-logo img {
     max-width: 150px;
 }
+a.theme-header-logo .loginLogo {
+    width: 125px;
+}
 @media (max-width: 479px) {
     a.theme-header-logo img {
         max-width: 110px;
